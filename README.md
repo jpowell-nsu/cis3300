@@ -6,7 +6,7 @@ CIS 3300 Example Code
 
 Example code for learning purposes in CIS 3300.
 
-The purpose of these projects is to learn Java code and programming concepts. It is not considered perfect or tested code, and is not meant to be the best or most efficient way of doing something (in fact, I know it is not in most cases). It should not be used in production environments, and should not be criticized without knowing the full context of the lessons.
+These projects aim to teach the fundamentals of Java programming and coding skills. They are not polished or fully tested and are not meant to be the most optimal or efficient solutions (I acknowledge they often are not). They should not be employed in production settings or judged without considering the complete context.
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ code blocks for commands
 
 ## Help
 
-Any advise for common problems or issues.
+*Any advise for common problems or issues.
 ```
 command to run if program contains helper info
 ```
@@ -40,8 +40,8 @@ command to run if program contains helper info
 
 Jason Powell
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+*ex. Dominique Pizzie  
+*ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
 
@@ -53,7 +53,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [Jason Powell] License - see the LICENSE.md file for details
+*This project is licensed under the [Jason Powell] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
