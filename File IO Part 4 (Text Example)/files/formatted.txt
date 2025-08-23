@@ -1,0 +1,13 @@
+145044781,Pekkanen,Genevieve,Pekkanen@cis3300.edu,71.250000
+159259241,Bristol,Gréagóir,Bristol@cis3300.edu,93.360000
+8303083,Hlaváč,Christin,Hlavac@cis3300.edu,91.458420
+137672857,Georgiadi,Alexis,Georgiadi@cis3300.edu,78.000000
+128251964,Mas,Emil,Mas@cis3300.edu,70.500000
+106624626,Diego,Dazhdbog,Diego@cis3300.edu,53.250000
+107504943,Zavala,Heimdallr,Zavala@cis3300.edu,75.684000
+43679959,Konečná,Helge,Konecna@cis3300.edu,84.236440
+167801680,Zhang,Lashay,Zhang@cis3300.edu,96.258400
+149538439,Michel,Set,Michel@cis3300.edu,88.000000
+134615656,Göbel,Cynthia,Gobel@cis3300.edu,67.990000
+175222675,Sjögren,Kateryna,Sjogren@cis3300.edu,96.120000
+128597047,Sommer,Domingos,Sommer@cis3300.edu,84.200000
