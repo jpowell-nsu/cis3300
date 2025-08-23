@@ -1,0 +1,14 @@
+ID firstname lastname email score
+145044781 Genevieve Pekkanen Pekkanen@cis3300.edu 71.25
+159259241 Gréagóir Bristol Bristol@cis3300.edu 93.36
+8303083 Christin Hlaváč Hlavac@cis3300.edu 91.45842
+137672857 Alexis Georgiadi Georgiadi@cis3300.edu 78.0
+128251964 Emil Mas Mas@cis3300.edu 70.5
+106624626 Dazhdbog Diego Diego@cis3300.edu 53.25
+107504943 Heimdallr Zavala Zavala@cis3300.edu 75.684
+43679959 Helge Konečná Konecna@cis3300.edu 84.23644
+167801680 Lashay Zhang Zhang@cis3300.edu 96.2584
+149538439 Set Michel Michel@cis3300.edu 88.0
+134615656 Cynthia Göbel Gobel@cis3300.edu 67.99
+175222675 Kateryna Sjögren Sjogren@cis3300.edu 96.12
+128597047 Domingos Sommer Sommer@cis3300.edu 84.2
