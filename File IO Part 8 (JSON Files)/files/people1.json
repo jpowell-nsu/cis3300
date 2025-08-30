@@ -1,0 +1,30 @@
+[
+    {
+        "name": "John Doe",
+        "age": 30,
+        "email": "johndoe@example.com",
+        "isVerified": true,
+        "scores": [85, 90, 78]
+    },
+    {
+        "name": "Jane Smith",
+        "age": 27,
+        "email": "janesmith@example.com",
+        "isVerified": false,
+        "scores": [92, 88, 95]
+    },
+    {
+        "name": "Emily Johnson",
+        "age": 35,
+        "email": "emilyj@example.com",
+        "isVerified": true,
+        "scores": [75, 80, 85]
+    },
+    {
+        "name": "Michael Brown",
+        "age": 40,
+        "email": "michaelb@example.com",
+        "isVerified": false,
+        "scores": [88, 82, 90]
+    }
+]

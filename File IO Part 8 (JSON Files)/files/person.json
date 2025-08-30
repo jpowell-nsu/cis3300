@@ -1,0 +1,7 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "email": "johndoe@example.com",
+    "isVerified": true,
+    "scores": [85, 90, 78]
+}
