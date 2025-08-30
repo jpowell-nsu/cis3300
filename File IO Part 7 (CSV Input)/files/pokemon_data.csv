@@ -1,0 +1,501 @@
+Name,Type,Ability,Region,Level
+Mew,Normal,Overgrow,Kanto,16
+Vulpix,Dragon,Static,Galar,10
+Machop,Normal,Torrent,Galar,49
+Eevee,Fighting,Blaze,Hoenn,13
+Pikachu,Electric,Intimidate,Galar,72
+Gengar,Fire,Blaze,Kalos,27
+Dragonite,Ice,Overgrow,Unova,49
+Mew,Fire,Sturdy,Alola,77
+Eevee,Electric,Levitate,Galar,83
+Bulbasaur,Psychic,Intimidate,Unova,89
+Machop,Fire,Run Away,Paldea,5
+Growlithe,Grass,Sturdy,Kanto,45
+Pikachu,Electric,Sturdy,Kanto,14
+Psyduck,Fighting,Run Away,Unova,32
+Psyduck,Psychic,Intimidate,Hoenn,84
+Gengar,Ice,Overgrow,Unova,24
+Mewtwo,Normal,Overgrow,Galar,62
+Psyduck,Psychic,Intimidate,Kalos,88
+Meowth,Water,Intimidate,Kalos,37
+Magikarp,Rock,Run Away,Hoenn,75
+Meowth,Fighting,Static,Unova,12
+Pikachu,Psychic,Swift Swim,Unova,74
+Growlithe,Electric,Static,Paldea,64
+Onix,Water,Torrent,Kanto,17
+Eevee,Ghost,Intimidate,Unova,57
+Meowth,Dragon,Keen Eye,Johto,87
+Onix,Electric,Levitate,Johto,98
+Snorlax,Ice,Torrent,Kalos,54
+Charmander,Grass,Keen Eye,Unova,52
+Bulbasaur,Ghost,Torrent,Johto,53
+Jigglypuff,Electric,Blaze,Galar,51
+Eevee,Fire,Torrent,Johto,43
+Charmander,Ghost,Keen Eye,Paldea,20
+Bulbasaur,Grass,Overgrow,Paldea,75
+Snorlax,Rock,Overgrow,Sinnoh,59
+Gengar,Electric,Swift Swim,Alola,98
+Geodude,Fighting,Blaze,Sinnoh,29
+Geodude,Fighting,Swift Swim,Hoenn,30
+Pikachu,Water,Sturdy,Galar,82
+Vulpix,Ghost,Blaze,Hoenn,42
+Lapras,Ghost,Run Away,Hoenn,93
+Growlithe,Electric,Sturdy,Galar,85
+Squirtle,Ghost,Overgrow,Unova,41
+Squirtle,Psychic,Levitate,Kanto,11
+Dragonite,Fighting,Run Away,Hoenn,85
+Bulbasaur,Dragon,Blaze,Sinnoh,20
+Magikarp,Electric,Sturdy,Hoenn,24
+Geodude,Fighting,Intimidate,Kanto,5
+Bulbasaur,Fire,Intimidate,Sinnoh,82
+Onix,Rock,Intimidate,Alola,26
+Charmander,Electric,Keen Eye,Hoenn,61
+Magikarp,Dragon,Run Away,Sinnoh,76
+Vulpix,Fighting,Run Away,Hoenn,37
+Geodude,Water,Swift Swim,Kalos,60
+Onix,Fighting,Torrent,Paldea,63
+Lapras,Fire,Sturdy,Paldea,70
+Dragonite,Rock,Blaze,Unova,23
+Machop,Fire,Keen Eye,Kalos,80
+Growlithe,Grass,Static,Johto,51
+Eevee,Ghost,Levitate,Hoenn,5
+Mew,Fire,Run Away,Alola,21
+Snorlax,Fighting,Overgrow,Alola,63
+Snorlax,Normal,Intimidate,Hoenn,63
+Geodude,Fire,Sturdy,Kanto,36
+Growlithe,Electric,Overgrow,Johto,34
+Dragonite,Electric,Sturdy,Unova,30
+Vulpix,Rock,Keen Eye,Sinnoh,7
+Psyduck,Grass,Swift Swim,Kalos,53
+Growlithe,Rock,Keen Eye,Unova,24
+Bulbasaur,Ghost,Swift Swim,Johto,18
+Vulpix,Ghost,Sturdy,Sinnoh,40
+Eevee,Grass,Intimidate,Kalos,57
+Onix,Grass,Intimidate,Alola,23
+Bulbasaur,Ice,Overgrow,Paldea,4
+Eevee,Fire,Torrent,Hoenn,6
+Growlithe,Electric,Overgrow,Unova,63
+Growlithe,Electric,Blaze,Kanto,59
+Dragonite,Ghost,Overgrow,Alola,7
+Geodude,Electric,Swift Swim,Alola,41
+Squirtle,Water,Static,Paldea,98
+Geodude,Fire,Sturdy,Galar,67
+Onix,Ghost,Intimidate,Kalos,37
+Psyduck,Dragon,Blaze,Sinnoh,41
+Gengar,Fire,Run Away,Kalos,55
+Eevee,Electric,Intimidate,Kalos,26
+Magikarp,Rock,Torrent,Unova,26
+Geodude,Dragon,Keen Eye,Unova,97
+Growlithe,Ghost,Keen Eye,Paldea,2
+Bulbasaur,Water,Blaze,Johto,2
+Growlithe,Dragon,Swift Swim,Kalos,18
+Lapras,Psychic,Keen Eye,Johto,77
+Gengar,Normal,Keen Eye,Johto,7
+Onix,Water,Static,Alola,5
+Dragonite,Ghost,Run Away,Galar,12
+Lapras,Dragon,Swift Swim,Kalos,50
+Eevee,Ghost,Swift Swim,Kalos,61
+Bulbasaur,Normal,Levitate,Galar,68
+Dragonite,Ice,Intimidate,Unova,72
+Meowth,Water,Sturdy,Alola,87
+Meowth,Psychic,Run Away,Kanto,29
+Meowth,Fighting,Intimidate,Kalos,31
+Mew,Ice,Sturdy,Johto,74
+Pikachu,Dragon,Levitate,Hoenn,88
+Geodude,Fire,Sturdy,Unova,84
+Snorlax,Ice,Sturdy,Kalos,81
+Bulbasaur,Dragon,Blaze,Unova,63
+Magikarp,Water,Intimidate,Johto,4
+Bulbasaur,Rock,Levitate,Unova,62
+Psyduck,Water,Sturdy,Alola,93
+Gengar,Ghost,Blaze,Hoenn,48
+Charmander,Fire,Intimidate,Kalos,9
+Growlithe,Rock,Sturdy,Paldea,32
+Charmander,Grass,Blaze,Kalos,61
+Jigglypuff,Dragon,Static,Johto,43
+Psyduck,Fighting,Torrent,Alola,56
+Mew,Fire,Levitate,Kanto,71
+Magikarp,Fire,Run Away,Johto,3
+Psyduck,Fighting,Levitate,Kalos,53
+Machop,Ice,Overgrow,Kalos,84
+Gengar,Fire,Overgrow,Johto,46
+Pikachu,Dragon,Torrent,Galar,26
+Dragonite,Fire,Run Away,Kanto,43
+Magikarp,Fire,Run Away,Kalos,98
+Bulbasaur,Grass,Keen Eye,Kalos,93
+Lapras,Dragon,Keen Eye,Alola,36
+Squirtle,Fire,Keen Eye,Kanto,65
+Dragonite,Ghost,Sturdy,Alola,78
+Pikachu,Ice,Sturdy,Kanto,75
+Vulpix,Psychic,Swift Swim,Hoenn,50
+Snorlax,Electric,Overgrow,Galar,54
+Snorlax,Water,Intimidate,Johto,75
+Gengar,Fighting,Torrent,Galar,52
+Snorlax,Ghost,Sturdy,Johto,83
+Jigglypuff,Grass,Swift Swim,Unova,28
+Meowth,Dragon,Static,Galar,71
+Onix,Fighting,Overgrow,Kalos,58
+Mewtwo,Water,Sturdy,Hoenn,15
+Lapras,Ice,Torrent,Kalos,86
+Dragonite,Ghost,Run Away,Kanto,11
+Dragonite,Fire,Torrent,Alola,24
+Jigglypuff,Rock,Sturdy,Hoenn,22
+Snorlax,Fire,Overgrow,Paldea,40
+Mewtwo,Water,Levitate,Johto,58
+Mew,Rock,Overgrow,Kanto,61
+Dragonite,Ice,Swift Swim,Kalos,1
+Mewtwo,Ghost,Swift Swim,Galar,79
+Bulbasaur,Psychic,Run Away,Johto,74
+Growlithe,Psychic,Swift Swim,Galar,94
+Machop,Dragon,Overgrow,Alola,52
+Growlithe,Rock,Sturdy,Paldea,37
+Bulbasaur,Rock,Static,Johto,88
+Snorlax,Rock,Keen Eye,Galar,25
+Onix,Rock,Levitate,Hoenn,93
+Machop,Fighting,Levitate,Paldea,90
+Onix,Fire,Intimidate,Galar,54
+Mewtwo,Grass,Static,Alola,75
+Geodude,Ghost,Blaze,Kanto,83
+Psyduck,Grass,Keen Eye,Unova,37
+Lapras,Psychic,Static,Kalos,51
+Geodude,Water,Intimidate,Alola,80
+Eevee,Normal,Overgrow,Hoenn,48
+Onix,Normal,Keen Eye,Alola,31
+Vulpix,Ghost,Torrent,Kanto,45
+Geodude,Psychic,Swift Swim,Kanto,91
+Geodude,Fighting,Blaze,Paldea,54
+Pikachu,Ghost,Levitate,Alola,14
+Mew,Ghost,Swift Swim,Unova,15
+Lapras,Fire,Torrent,Johto,95
+Bulbasaur,Psychic,Intimidate,Kanto,30
+Lapras,Ice,Levitate,Sinnoh,15
+Vulpix,Normal,Sturdy,Johto,85
+Psyduck,Ice,Torrent,Paldea,23
+Lapras,Psychic,Torrent,Kanto,5
+Gengar,Water,Keen Eye,Kanto,32
+Gengar,Fire,Overgrow,Johto,29
+Meowth,Ice,Intimidate,Johto,84
+Growlithe,Water,Overgrow,Kanto,52
+Onix,Dragon,Overgrow,Alola,60
+Mewtwo,Grass,Static,Paldea,50
+Onix,Rock,Levitate,Unova,33
+Meowth,Ghost,Run Away,Kanto,38
+Dragonite,Fighting,Blaze,Galar,2
+Growlithe,Fire,Keen Eye,Paldea,83
+Dragonite,Ghost,Static,Unova,55
+Charmander,Dragon,Run Away,Kalos,96
+Snorlax,Ghost,Intimidate,Paldea,2
+Machop,Psychic,Swift Swim,Kalos,75
+Eevee,Electric,Intimidate,Paldea,95
+Squirtle,Water,Levitate,Hoenn,55
+Growlithe,Dragon,Overgrow,Johto,17
+Gengar,Ice,Blaze,Sinnoh,39
+Vulpix,Ghost,Run Away,Unova,64
+Bulbasaur,Normal,Swift Swim,Johto,48
+Snorlax,Grass,Static,Kanto,86
+Pikachu,Fighting,Overgrow,Alola,17
+Snorlax,Ghost,Keen Eye,Johto,26
+Meowth,Normal,Levitate,Sinnoh,63
+Eevee,Normal,Blaze,Galar,73
+Jigglypuff,Dragon,Overgrow,Unova,19
+Gengar,Water,Swift Swim,Unova,26
+Mewtwo,Fighting,Blaze,Unova,7
+Mew,Water,Levitate,Kalos,49
+Vulpix,Water,Overgrow,Kalos,96
+Jigglypuff,Normal,Static,Kanto,33
+Eevee,Fighting,Sturdy,Paldea,17
+Magikarp,Psychic,Torrent,Hoenn,77
+Mew,Fighting,Keen Eye,Alola,16
+Geodude,Dragon,Keen Eye,Unova,66
+Mewtwo,Electric,Swift Swim,Galar,56
+Squirtle,Grass,Blaze,Sinnoh,15
+Growlithe,Ghost,Blaze,Sinnoh,60
+Dragonite,Ghost,Run Away,Sinnoh,91
+Magikarp,Grass,Sturdy,Galar,44
+Vulpix,Psychic,Run Away,Kanto,31
+Eevee,Electric,Overgrow,Hoenn,98
+Jigglypuff,Rock,Overgrow,Galar,60
+Growlithe,Water,Keen Eye,Unova,44
+Dragonite,Water,Static,Johto,8
+Jigglypuff,Grass,Sturdy,Paldea,38
+Charmander,Normal,Levitate,Unova,96
+Jigglypuff,Dragon,Swift Swim,Galar,79
+Eevee,Dragon,Torrent,Hoenn,6
+Gengar,Psychic,Levitate,Kanto,61
+Mewtwo,Ice,Torrent,Galar,68
+Pikachu,Fighting,Overgrow,Alola,39
+Lapras,Ghost,Swift Swim,Hoenn,88
+Gengar,Psychic,Levitate,Kalos,35
+Vulpix,Ghost,Keen Eye,Alola,10
+Mewtwo,Grass,Run Away,Paldea,100
+Geodude,Water,Keen Eye,Unova,81
+Vulpix,Dragon,Static,Alola,63
+Snorlax,Dragon,Static,Unova,76
+Pikachu,Psychic,Levitate,Unova,98
+Dragonite,Ghost,Intimidate,Kanto,65
+Mewtwo,Dragon,Blaze,Galar,22
+Charmander,Rock,Intimidate,Hoenn,99
+Mewtwo,Fire,Blaze,Galar,53
+Mewtwo,Water,Swift Swim,Kanto,40
+Dragonite,Grass,Run Away,Unova,66
+Onix,Normal,Blaze,Hoenn,95
+Lapras,Dragon,Keen Eye,Unova,14
+Gengar,Normal,Run Away,Unova,49
+Bulbasaur,Water,Torrent,Paldea,45
+Charmander,Fighting,Torrent,Kalos,53
+Meowth,Grass,Overgrow,Galar,21
+Mew,Dragon,Static,Kanto,72
+Vulpix,Fighting,Blaze,Hoenn,2
+Bulbasaur,Psychic,Levitate,Unova,81
+Gengar,Dragon,Swift Swim,Alola,63
+Psyduck,Normal,Swift Swim,Unova,29
+Magikarp,Ghost,Levitate,Hoenn,30
+Bulbasaur,Ice,Levitate,Johto,89
+Magikarp,Normal,Overgrow,Hoenn,47
+Pikachu,Ghost,Intimidate,Paldea,58
+Lapras,Normal,Keen Eye,Paldea,74
+Lapras,Ice,Static,Paldea,41
+Bulbasaur,Electric,Static,Unova,3
+Eevee,Ghost,Sturdy,Kanto,27
+Magikarp,Rock,Sturdy,Paldea,83
+Vulpix,Psychic,Swift Swim,Kanto,23
+Charmander,Fire,Static,Alola,23
+Mew,Normal,Run Away,Unova,88
+Geodude,Psychic,Blaze,Galar,2
+Bulbasaur,Ghost,Levitate,Johto,76
+Magikarp,Rock,Torrent,Paldea,38
+Psyduck,Electric,Run Away,Hoenn,53
+Snorlax,Ice,Keen Eye,Johto,3
+Bulbasaur,Rock,Run Away,Galar,24
+Vulpix,Psychic,Run Away,Paldea,59
+Psyduck,Ice,Torrent,Hoenn,84
+Dragonite,Dragon,Blaze,Johto,73
+Bulbasaur,Fighting,Intimidate,Unova,23
+Onix,Fighting,Overgrow,Kanto,89
+Pikachu,Water,Run Away,Sinnoh,8
+Gengar,Grass,Sturdy,Kanto,77
+Lapras,Grass,Torrent,Sinnoh,71
+Gengar,Psychic,Overgrow,Unova,79
+Dragonite,Grass,Overgrow,Johto,26
+Vulpix,Water,Static,Sinnoh,49
+Magikarp,Fire,Swift Swim,Unova,55
+Psyduck,Fire,Sturdy,Alola,14
+Squirtle,Fire,Swift Swim,Hoenn,63
+Mew,Psychic,Overgrow,Kalos,24
+Eevee,Ice,Run Away,Unova,52
+Meowth,Ghost,Intimidate,Kanto,40
+Geodude,Fire,Levitate,Johto,46
+Pikachu,Grass,Intimidate,Unova,72
+Dragonite,Fighting,Overgrow,Galar,46
+Mewtwo,Ice,Intimidate,Paldea,64
+Geodude,Psychic,Intimidate,Johto,17
+Psyduck,Ghost,Intimidate,Johto,16
+Charmander,Rock,Keen Eye,Johto,8
+Bulbasaur,Dragon,Blaze,Galar,52
+Gengar,Rock,Levitate,Johto,37
+Meowth,Fighting,Torrent,Kalos,30
+Squirtle,Psychic,Static,Kanto,11
+Charmander,Electric,Blaze,Kanto,41
+Machop,Ghost,Run Away,Kanto,49
+Machop,Psychic,Keen Eye,Hoenn,82
+Meowth,Ice,Run Away,Unova,40
+Magikarp,Ghost,Keen Eye,Johto,99
+Magikarp,Ice,Keen Eye,Hoenn,44
+Lapras,Normal,Overgrow,Kanto,67
+Dragonite,Ghost,Levitate,Johto,32
+Meowth,Ice,Keen Eye,Unova,38
+Pikachu,Normal,Sturdy,Johto,8
+Geodude,Dragon,Static,Kanto,4
+Bulbasaur,Fire,Static,Paldea,33
+Meowth,Normal,Run Away,Sinnoh,97
+Vulpix,Fighting,Levitate,Alola,28
+Psyduck,Fire,Keen Eye,Kalos,27
+Onix,Normal,Overgrow,Sinnoh,98
+Snorlax,Fire,Sturdy,Hoenn,20
+Lapras,Electric,Swift Swim,Unova,61
+Charmander,Ice,Intimidate,Paldea,37
+Mew,Rock,Run Away,Alola,28
+Psyduck,Dragon,Static,Paldea,73
+Geodude,Electric,Overgrow,Johto,45
+Mewtwo,Electric,Keen Eye,Kalos,58
+Psyduck,Ghost,Overgrow,Kanto,16
+Snorlax,Dragon,Overgrow,Kanto,59
+Gengar,Normal,Intimidate,Hoenn,2
+Jigglypuff,Normal,Intimidate,Unova,80
+Jigglypuff,Water,Intimidate,Sinnoh,47
+Meowth,Ice,Blaze,Johto,55
+Jigglypuff,Ghost,Blaze,Sinnoh,62
+Magikarp,Electric,Keen Eye,Hoenn,9
+Machop,Electric,Overgrow,Kanto,73
+Vulpix,Rock,Run Away,Paldea,24
+Eevee,Dragon,Overgrow,Kanto,94
+Psyduck,Fighting,Torrent,Unova,45
+Geodude,Fighting,Torrent,Paldea,86
+Squirtle,Fire,Run Away,Johto,71
+Meowth,Grass,Static,Hoenn,79
+Snorlax,Fighting,Static,Unova,24
+Onix,Ice,Levitate,Johto,70
+Onix,Psychic,Swift Swim,Kalos,1
+Mewtwo,Ghost,Keen Eye,Galar,92
+Mew,Rock,Torrent,Hoenn,28
+Dragonite,Psychic,Overgrow,Paldea,55
+Dragonite,Psychic,Blaze,Galar,97
+Mew,Fighting,Blaze,Sinnoh,24
+Onix,Electric,Static,Hoenn,11
+Pikachu,Fighting,Static,Unova,43
+Growlithe,Rock,Sturdy,Hoenn,50
+Snorlax,Fighting,Swift Swim,Paldea,5
+Machop,Rock,Static,Kalos,72
+Growlithe,Normal,Run Away,Unova,89
+Psyduck,Water,Swift Swim,Kalos,41
+Dragonite,Water,Swift Swim,Alola,59
+Machop,Water,Intimidate,Kanto,98
+Magikarp,Rock,Keen Eye,Unova,47
+Jigglypuff,Water,Swift Swim,Hoenn,19
+Dragonite,Grass,Static,Kanto,41
+Squirtle,Dragon,Levitate,Johto,23
+Eevee,Normal,Static,Sinnoh,2
+Mew,Electric,Torrent,Johto,24
+Psyduck,Electric,Static,Galar,66
+Pikachu,Psychic,Run Away,Paldea,33
+Snorlax,Ghost,Blaze,Kalos,25
+Growlithe,Grass,Overgrow,Unova,45
+Gengar,Normal,Torrent,Galar,52
+Machop,Fighting,Blaze,Hoenn,25
+Pikachu,Ghost,Static,Galar,37
+Bulbasaur,Psychic,Intimidate,Kanto,87
+Psyduck,Ghost,Static,Johto,52
+Vulpix,Dragon,Swift Swim,Sinnoh,64
+Bulbasaur,Water,Static,Paldea,66
+Pikachu,Fire,Blaze,Alola,74
+Geodude,Psychic,Torrent,Galar,98
+Meowth,Psychic,Swift Swim,Unova,100
+Mew,Ghost,Levitate,Alola,75
+Jigglypuff,Ice,Blaze,Kanto,56
+Jigglypuff,Fighting,Overgrow,Paldea,49
+Psyduck,Ghost,Intimidate,Kalos,97
+Geodude,Fighting,Blaze,Paldea,78
+Meowth,Dragon,Torrent,Unova,58
+Squirtle,Grass,Intimidate,Sinnoh,14
+Eevee,Rock,Blaze,Kanto,13
+Dragonite,Normal,Swift Swim,Hoenn,3
+Jigglypuff,Fighting,Run Away,Kalos,26
+Eevee,Fire,Run Away,Hoenn,51
+Squirtle,Ice,Run Away,Alola,66
+Meowth,Fire,Blaze,Alola,45
+Vulpix,Fighting,Levitate,Johto,96
+Growlithe,Normal,Static,Kalos,88
+Geodude,Water,Static,Galar,15
+Squirtle,Ice,Static,Paldea,9
+Jigglypuff,Normal,Overgrow,Galar,98
+Meowth,Ice,Overgrow,Alola,83
+Mew,Fighting,Torrent,Kalos,35
+Psyduck,Ice,Intimidate,Alola,37
+Snorlax,Psychic,Intimidate,Kalos,78
+Mew,Rock,Sturdy,Paldea,19
+Snorlax,Normal,Static,Kanto,43
+Eevee,Fire,Keen Eye,Unova,39
+Snorlax,Dragon,Sturdy,Galar,49
+Eevee,Rock,Run Away,Unova,10
+Geodude,Water,Overgrow,Sinnoh,58
+Onix,Normal,Torrent,Paldea,58
+Jigglypuff,Grass,Keen Eye,Alola,53
+Geodude,Normal,Static,Hoenn,92
+Lapras,Grass,Intimidate,Sinnoh,37
+Psyduck,Ice,Static,Paldea,3
+Eevee,Psychic,Levitate,Hoenn,11
+Mew,Rock,Keen Eye,Paldea,21
+Bulbasaur,Water,Intimidate,Paldea,20
+Magikarp,Rock,Blaze,Paldea,6
+Meowth,Fire,Overgrow,Sinnoh,29
+Lapras,Rock,Run Away,Alola,85
+Mewtwo,Psychic,Overgrow,Alola,44
+Meowth,Ice,Sturdy,Galar,25
+Eevee,Fighting,Overgrow,Hoenn,82
+Jigglypuff,Fire,Static,Unova,67
+Bulbasaur,Dragon,Blaze,Kanto,33
+Geodude,Fire,Blaze,Johto,1
+Geodude,Ice,Overgrow,Kanto,83
+Psyduck,Grass,Torrent,Alola,54
+Gengar,Electric,Overgrow,Kalos,71
+Squirtle,Water,Static,Unova,45
+Meowth,Normal,Static,Hoenn,50
+Meowth,Fire,Torrent,Kalos,88
+Bulbasaur,Psychic,Sturdy,Hoenn,3
+Meowth,Grass,Run Away,Unova,38
+Machop,Dragon,Sturdy,Kanto,30
+Charmander,Dragon,Levitate,Johto,53
+Bulbasaur,Ice,Static,Kalos,48
+Lapras,Rock,Overgrow,Sinnoh,81
+Vulpix,Rock,Keen Eye,Johto,78
+Vulpix,Electric,Overgrow,Alola,11
+Bulbasaur,Fire,Static,Galar,41
+Magikarp,Ghost,Blaze,Unova,79
+Pikachu,Water,Levitate,Paldea,69
+Mewtwo,Dragon,Intimidate,Galar,15
+Vulpix,Ice,Keen Eye,Hoenn,50
+Mewtwo,Ice,Overgrow,Johto,91
+Jigglypuff,Grass,Sturdy,Kanto,1
+Pikachu,Grass,Overgrow,Kanto,96
+Dragonite,Ghost,Overgrow,Johto,47
+Magikarp,Normal,Overgrow,Alola,49
+Mew,Normal,Levitate,Alola,25
+Lapras,Grass,Static,Paldea,55
+Lapras,Fire,Swift Swim,Hoenn,73
+Mewtwo,Water,Keen Eye,Paldea,62
+Onix,Fire,Overgrow,Alola,63
+Dragonite,Fire,Torrent,Kalos,97
+Onix,Fire,Blaze,Johto,85
+Gengar,Fighting,Run Away,Unova,61
+Dragonite,Dragon,Keen Eye,Paldea,51
+Onix,Dragon,Torrent,Hoenn,66
+Pikachu,Grass,Static,Paldea,37
+Onix,Fighting,Static,Unova,11
+Mew,Ice,Sturdy,Johto,61
+Eevee,Ghost,Swift Swim,Unova,80
+Vulpix,Electric,Blaze,Unova,16
+Gengar,Dragon,Keen Eye,Kalos,75
+Mewtwo,Electric,Blaze,Hoenn,73
+Charmander,Dragon,Swift Swim,Hoenn,30
+Growlithe,Fighting,Levitate,Paldea,86
+Psyduck,Fighting,Run Away,Hoenn,51
+Geodude,Normal,Keen Eye,Hoenn,90
+Vulpix,Fighting,Overgrow,Kalos,90
+Psyduck,Electric,Sturdy,Kanto,43
+Magikarp,Grass,Torrent,Unova,4
+Machop,Psychic,Static,Sinnoh,20
+Geodude,Fighting,Static,Galar,58
+Onix,Fighting,Levitate,Hoenn,94
+Meowth,Grass,Levitate,Galar,47
+Jigglypuff,Rock,Levitate,Johto,93
+Growlithe,Dragon,Keen Eye,Kanto,27
+Mewtwo,Dragon,Overgrow,Galar,56
+Psyduck,Ghost,Sturdy,Alola,81
+Bulbasaur,Dragon,Sturdy,Unova,22
+Squirtle,Ice,Blaze,Johto,2
+Squirtle,Ice,Keen Eye,Alola,66
+Squirtle,Ice,Swift Swim,Johto,40
+Pikachu,Water,Levitate,Paldea,15
+Vulpix,Fighting,Keen Eye,Paldea,58
+Meowth,Ice,Keen Eye,Hoenn,4
+Mewtwo,Rock,Sturdy,Galar,48
+Charmander,Rock,Run Away,Alola,28
+Squirtle,Fire,Intimidate,Alola,17
+Gengar,Fire,Run Away,Sinnoh,51
+Bulbasaur,Fighting,Swift Swim,Galar,64
+Snorlax,Ghost,Overgrow,Unova,68
+Onix,Water,Static,Johto,80
+Psyduck,Ice,Sturdy,Hoenn,48
+Psyduck,Water,Sturdy,Sinnoh,31
+Machop,Psychic,Levitate,Unova,51
+Mew,Psychic,Static,Galar,5
+Mew,Fighting,Overgrow,Johto,73
+Vulpix,Normal,Intimidate,Kalos,42
+Meowth,Fighting,Swift Swim,Sinnoh,64
+Charmander,Grass,Sturdy,Alola,18
+Growlithe,Rock,Torrent,Sinnoh,99
+Mewtwo,Ice,Levitate,Galar,29
+Jigglypuff,Rock,Intimidate,Sinnoh,83
+Psyduck,Fighting,Overgrow,Hoenn,44
+Squirtle,Fighting,Levitate,Alola,25
+Growlithe,Water,Swift Swim,Kanto,3
