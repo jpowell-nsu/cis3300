@@ -12,7 +12,7 @@ These projects aim to teach the fundamentals of Java programming and coding skil
 
 ### Dependencies
 
-Java JDK 24, Eclipse IDE, (more coming soon...)
+Java JDK 24, Eclipse IDE, openCSV (https://sourceforge.net/projects/opencsv/), (more coming soon...)
 
 ### Installing
 
