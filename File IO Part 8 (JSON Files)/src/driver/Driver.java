@@ -9,12 +9,16 @@ import java.util.Arrays;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+//Course Resources
+//	List of Useful Resource Websites
+//	Setting Up org.json
+
 public class Driver {
 	
 	public static void main(String[] args) throws IOException {
-		//readPerson();
+		readPerson();
 		//readPeople();
-		writePeople();
+		//writePeople();
 	}
 	
 	public static void readPerson() throws IOException {
@@ -69,8 +73,8 @@ public class Driver {
 		boolean isVerified;	
 		int[] scores;
 		
-		file = new FileInputStream("files/people1.json");
-		//file = new FileInputStream("files/people2.json");
+		//file = new FileInputStream("files/people1.json");
+		file = new FileInputStream("files/people2.json");
 		content = new String(file.readAllBytes());
 		file.close();
 		System.out.println("JSON Contents...");
