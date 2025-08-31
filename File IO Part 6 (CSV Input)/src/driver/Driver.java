@@ -13,7 +13,6 @@ import com.opencsv.exceptions.CsvException;
 // Course Resources 
 //	List of Useful Resource Websites
 //	Setting Up OpenCSV
-//	Setting Up org.json
 
 public class Driver {
 
@@ -21,16 +20,18 @@ public class Driver {
 		String filename = "files/scores.csv";
 
 		readByLine(filename);
-		// readAllAndDisplay(filename);
-		// List<String[]> students = readAllAndReturn(filename);
+		//readAllAndDisplay(filename);
+		//List<String[]> students = readAllAndReturn(filename);
 
 		/*
-		for (int i = 0; i < students.size(); i++) { String[] line = students.get(i);
+		for (int i = 0; i < students.size(); i++) {
+			String[] line = students.get(i);
 			double score = Double.parseDouble(line[4]);
 			System.out.printf("%09d %-15s %-15s %-25s %5.2f\n",
 				Integer.parseInt(line[0]), line[1], line[2], line[3], score);
 		}
 		*/
+
 	}
 
 	public static void readByLine(String filename) throws CsvValidationException, IOException {
