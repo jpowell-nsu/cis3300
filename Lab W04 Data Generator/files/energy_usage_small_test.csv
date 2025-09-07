@@ -1,0 +1,201 @@
+HomeID,Date,Appliance,Room,Watts,HoursPerDay,SmartDevice
+103,2025-07-03,Microwave,Kitchen,1229,0.3,True
+103,2025-08-22,Air Conditioner,Bedroom,1425,4.5,False
+103,2025-08-27,Microwave,Kitchen,1201,0.7,False
+104,2025-08-11,Dryer,Laundry,2906,1.1,False
+104,2025-09-27,Microwave,Kitchen,1152,0.5,False
+104,2025-09-28,Desk Lamp,Office,59,3.0,False
+105,2025-07-04,Laptop,Office,71,4.5,True
+105,2025-07-05,Air Conditioner,Bedroom,1550,7.1,False
+105,2025-07-17,Laptop,Office,75,4.7,False
+105,2025-08-01,Washing Machine,Laundry,451,1.8,True
+105,2025-08-22,Desk Lamp,Office,36,6.2,True
+106,2025-07-06,Microwave,Kitchen,1265,0.8,False
+106,2025-07-21,Microwave,Kitchen,1194,0.6,False
+106,2025-08-02,Washing Machine,Laundry,508,1.7,False
+106,2025-08-27,Heater,Garage,1863,4.6,False
+106,2025-09-15,Washing Machine,Laundry,548,2.0,True
+106,2025-09-21,Microwave,Kitchen,1144,1.0,False
+107,2025-07-23,Laptop,Office,80,5.5,True
+107,2025-08-07,Air Conditioner,Bedroom,1598,9.6,True
+107,2025-08-23,Heater,Garage,1822,2.1,False
+107,2025-09-01,Heater,Garage,1818,4.2,False
+107,2025-09-23,Air Conditioner,Bedroom,1579,9.8,False
+108,2025-07-18,Laptop,Office,61,7.2,True
+108,2025-08-02,Television,Living Room,212,5.8,True
+108,2025-08-10,Desk Lamp,Office,47,2.1,True
+108,2025-09-27,Dryer,Laundry,2835,0.9,False
+109,2025-07-10,Microwave,Kitchen,1259,0.9,True
+109,2025-07-11,Dryer,Laundry,2969,1.0,False
+109,2025-09-05,Heater,Garage,1841,2.2,False
+110,2025-07-03,Microwave,Kitchen,1025,0.4,False
+110,2025-08-02,Washing Machine,Laundry,549,1.1,True
+111,2025-07-19,Air Conditioner,Bedroom,1585,6.2,False
+111,2025-08-02,Refrigerator,Kitchen,154,24.0,False
+111,2025-08-26,Refrigerator,Kitchen,143,24.0,True
+111,2025-09-08,Ceiling Fan,Bedroom,71,8.5,True
+111,2025-09-23,Ceiling Fan,Bedroom,75,7.5,True
+112,2025-07-01,Refrigerator,Kitchen,158,24.0,False
+112,2025-07-26,Air Conditioner,Bedroom,1461,8.0,False
+112,2025-07-26,Ceiling Fan,Bedroom,89,10.0,True
+112,2025-08-09,Air Conditioner,Bedroom,1461,5.5,False
+112,2025-09-01,Refrigerator,Kitchen,158,24.0,True
+112,2025-09-02,Ceiling Fan,Bedroom,72,8.1,True
+113,2025-08-02,Washing Machine,Laundry,538,1.2,False
+113,2025-08-25,Microwave,Kitchen,1254,0.5,False
+113,2025-09-06,Air Conditioner,Bedroom,1443,4.2,False
+113,2025-09-11,Air Conditioner,Bedroom,1541,8.0,True
+114,2025-07-08,Television,Living Room,238,4.2,False
+114,2025-07-12,Ceiling Fan,Bedroom,79,9.2,True
+114,2025-07-19,Desk Lamp,Office,39,5.4,True
+114,2025-09-20,Heater,Garage,1927,3.5,False
+114,2025-09-27,Air Conditioner,Bedroom,1514,6.3,False
+115,2025-07-20,Desk Lamp,Office,45,7.7,True
+115,2025-08-08,Washing Machine,Laundry,511,1.4,False
+115,2025-08-18,Desk Lamp,Office,59,4.0,True
+115,2025-09-07,Washing Machine,Laundry,536,1.5,False
+116,2025-07-02,Laptop,Office,78,4.9,False
+116,2025-07-02,Ceiling Fan,Bedroom,84,7.5,False
+116,2025-07-03,Microwave,Kitchen,1278,0.8,False
+116,2025-07-11,Desk Lamp,Office,52,3.2,True
+116,2025-09-16,Television,Living Room,182,4.9,True
+116,2025-09-17,Television,Living Room,213,3.8,True
+116,2025-09-18,Refrigerator,Kitchen,157,24.0,True
+116,2025-09-22,Television,Living Room,232,4.2,True
+117,2025-07-12,Washing Machine,Laundry,527,1.9,False
+117,2025-07-14,Washing Machine,Laundry,460,1.5,False
+117,2025-08-02,Dryer,Laundry,3161,1.1,False
+117,2025-08-21,Television,Living Room,191,3.5,True
+117,2025-09-05,Dryer,Laundry,3033,1.0,False
+117,2025-09-20,Dryer,Laundry,2872,1.2,False
+118,2025-08-09,Refrigerator,Kitchen,167,24.0,False
+118,2025-09-03,Air Conditioner,Bedroom,1489,5.3,False
+119,2025-07-06,Refrigerator,Kitchen,158,24.0,True
+119,2025-07-12,Television,Living Room,244,2.2,True
+119,2025-08-01,Dryer,Laundry,2906,1.4,False
+119,2025-08-07,Ceiling Fan,Bedroom,90,9.0,True
+119,2025-08-18,Heater,Garage,1702,4.5,True
+119,2025-09-12,Refrigerator,Kitchen,164,24.0,True
+119,2025-09-23,Laptop,Office,66,7.6,True
+119,2025-09-23,Microwave,Kitchen,1195,0.9,False
+120,2025-08-12,Laptop,Office,61,4.2,False
+121,2025-07-07,Air Conditioner,Bedroom,1472,6.1,False
+121,2025-07-13,Television,Living Room,188,3.5,True
+121,2025-07-14,Laptop,Office,64,3.3,True
+121,2025-07-15,Laptop,Office,65,3.2,True
+121,2025-07-26,Washing Machine,Laundry,481,1.9,False
+121,2025-09-07,Refrigerator,Kitchen,164,24.0,True
+122,2025-07-02,Washing Machine,Laundry,542,1.3,True
+122,2025-07-19,Refrigerator,Kitchen,170,24.0,False
+123,2025-07-17,Desk Lamp,Office,49,5.1,True
+123,2025-08-16,Television,Living Room,198,2.8,False
+123,2025-08-19,Washing Machine,Laundry,502,2.0,False
+123,2025-09-10,Microwave,Kitchen,1137,0.8,True
+123,2025-09-20,Laptop,Office,63,6.3,True
+124,2025-07-28,Dryer,Laundry,3141,0.8,False
+124,2025-08-04,Refrigerator,Kitchen,159,24.0,True
+124,2025-08-26,Laptop,Office,74,3.1,True
+125,2025-07-19,Refrigerator,Kitchen,163,24.0,True
+125,2025-07-21,Dryer,Laundry,3020,1.5,True
+125,2025-09-08,Microwave,Kitchen,1288,0.5,False
+126,2025-07-23,Refrigerator,Kitchen,147,24.0,True
+126,2025-07-27,Television,Living Room,189,4.1,True
+126,2025-08-05,Refrigerator,Kitchen,146,24.0,True
+126,2025-09-08,Dryer,Laundry,2917,1.0,False
+126,2025-09-09,Refrigerator,Kitchen,163,24.0,True
+126,2025-09-18,Washing Machine,Laundry,526,1.8,True
+127,2025-08-01,Washing Machine,Laundry,502,1.1,True
+127,2025-08-28,Laptop,Office,72,3.6,True
+127,2025-09-20,Refrigerator,Kitchen,166,24.0,False
+127,2025-09-21,Desk Lamp,Office,34,6.1,True
+128,2025-07-03,Laptop,Office,72,4.6,False
+128,2025-07-08,Laptop,Office,60,4.7,True
+128,2025-07-13,Refrigerator,Kitchen,140,24.0,True
+128,2025-08-07,Ceiling Fan,Bedroom,72,9.3,True
+128,2025-08-25,Desk Lamp,Office,53,6.5,False
+128,2025-08-25,Air Conditioner,Bedroom,1492,9.0,False
+129,2025-07-03,Heater,Garage,1969,3.8,True
+129,2025-07-28,Desk Lamp,Office,51,6.3,True
+129,2025-08-07,Laptop,Office,72,4.2,True
+129,2025-08-26,Washing Machine,Laundry,491,1.7,False
+130,2025-07-03,Desk Lamp,Office,52,7.2,False
+130,2025-07-10,Refrigerator,Kitchen,142,24.0,True
+130,2025-07-14,Television,Living Room,180,5.8,True
+130,2025-08-21,Desk Lamp,Office,48,7.1,True
+130,2025-09-04,Desk Lamp,Office,44,7.2,False
+130,2025-09-08,Microwave,Kitchen,1183,0.6,False
+130,2025-09-12,Refrigerator,Kitchen,141,24.0,False
+130,2025-09-20,Ceiling Fan,Bedroom,89,9.5,True
+131,2025-08-08,Microwave,Kitchen,1123,0.6,False
+131,2025-08-14,Ceiling Fan,Bedroom,71,6.6,True
+131,2025-09-06,Microwave,Kitchen,1084,0.6,True
+131,2025-09-23,Desk Lamp,Office,41,2.7,True
+132,2025-08-09,Ceiling Fan,Bedroom,74,9.9,True
+132,2025-08-21,Desk Lamp,Office,38,6.9,False
+132,2025-09-18,Dryer,Laundry,2849,1.0,False
+132,2025-09-26,Desk Lamp,Office,32,6.2,True
+133,2025-07-26,Television,Living Room,243,4.2,True
+133,2025-09-19,Refrigerator,Kitchen,168,24.0,True
+134,2025-07-20,Television,Living Room,241,3.5,True
+134,2025-07-28,Dryer,Laundry,3055,1.3,False
+134,2025-08-28,Microwave,Kitchen,1298,0.6,False
+134,2025-09-18,Microwave,Kitchen,1098,0.7,False
+135,2025-07-06,Desk Lamp,Office,42,6.1,False
+136,2025-07-11,Desk Lamp,Office,59,4.0,True
+136,2025-08-12,Refrigerator,Kitchen,166,24.0,True
+136,2025-08-12,Heater,Garage,1779,2.5,False
+136,2025-09-07,Microwave,Kitchen,1054,0.8,True
+137,2025-08-06,Dryer,Laundry,3139,1.0,False
+137,2025-08-13,Washing Machine,Laundry,491,1.4,True
+137,2025-08-16,Television,Living Room,207,3.3,True
+137,2025-08-22,Refrigerator,Kitchen,166,24.0,False
+137,2025-09-19,Television,Living Room,247,2.1,False
+138,2025-07-10,Air Conditioner,Bedroom,1534,6.2,False
+138,2025-07-11,Refrigerator,Kitchen,148,24.0,True
+138,2025-07-13,Heater,Garage,1746,4.2,False
+138,2025-07-27,Air Conditioner,Bedroom,1477,5.2,False
+138,2025-08-10,Microwave,Kitchen,1125,0.8,False
+138,2025-09-05,Washing Machine,Laundry,517,1.6,True
+138,2025-09-15,Air Conditioner,Bedroom,1508,5.3,False
+139,2025-07-13,Dryer,Laundry,3041,0.9,True
+139,2025-07-19,Laptop,Office,73,3.7,True
+139,2025-07-27,Air Conditioner,Bedroom,1589,4.7,False
+139,2025-08-04,Desk Lamp,Office,42,5.2,True
+139,2025-08-12,Washing Machine,Laundry,478,2.0,True
+139,2025-09-09,Washing Machine,Laundry,493,1.3,True
+140,2025-08-06,Air Conditioner,Bedroom,1525,7.6,False
+140,2025-08-15,Laptop,Office,60,3.6,True
+140,2025-08-25,Refrigerator,Kitchen,141,24.0,True
+140,2025-08-27,Dryer,Laundry,2861,1.1,False
+140,2025-09-23,Heater,Garage,1821,2.6,False
+141,2025-07-21,Microwave,Kitchen,1181,0.8,False
+141,2025-07-26,Washing Machine,Laundry,548,1.2,True
+141,2025-09-25,Dryer,Laundry,2943,1.4,False
+142,2025-07-15,Refrigerator,Kitchen,150,24.0,True
+142,2025-09-09,Laptop,Office,71,3.1,True
+143,2025-08-02,Laptop,Office,61,5.8,True
+143,2025-08-04,Television,Living Room,248,2.6,True
+143,2025-08-08,Washing Machine,Laundry,518,1.6,False
+143,2025-08-17,Heater,Garage,1850,4.2,False
+143,2025-09-06,Air Conditioner,Bedroom,1465,4.5,False
+144,2025-07-28,Refrigerator,Kitchen,150,24.0,True
+144,2025-08-14,Air Conditioner,Bedroom,1543,4.6,False
+144,2025-09-18,Dryer,Laundry,3173,0.9,False
+145,2025-07-06,Ceiling Fan,Bedroom,77,9.0,True
+145,2025-08-14,Laptop,Office,68,5.1,True
+146,2025-09-15,Laptop,Office,74,5.7,True
+147,2025-07-28,Dryer,Laundry,2874,1.4,True
+147,2025-08-13,Television,Living Room,237,3.6,True
+147,2025-08-18,Air Conditioner,Bedroom,1560,5.1,False
+147,2025-08-25,Television,Living Room,197,4.1,False
+147,2025-09-02,Heater,Garage,1919,3.1,True
+148,2025-07-15,Microwave,Kitchen,1135,0.7,True
+148,2025-08-02,Dryer,Laundry,3027,1.4,False
+148,2025-08-10,Air Conditioner,Bedroom,1554,4.6,False
+149,2025-07-01,Refrigerator,Kitchen,147,24.0,True
+149,2025-08-03,Television,Living Room,229,5.5,True
+149,2025-08-04,Washing Machine,Laundry,489,1.2,False
+149,2025-08-07,Washing Machine,Laundry,538,1.0,False
+149,2025-09-04,Refrigerator,Kitchen,143,24.0,True
+150,2025-07-10,Refrigerator,Kitchen,154,24.0,True
+150,2025-07-11,Air Conditioner,Bedroom,1438,7.7,False
