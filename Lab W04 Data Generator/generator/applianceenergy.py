@@ -48,3 +48,5 @@ df.to_csv("../files/energy_usage_test.csv", index=False)
 small_df = df.sample(200, random_state=42).sort_values(by=["HomeID", "Date"])
 small_df.to_csv("../files/energy_usage_small_test.csv", index=False)
 
+tiny_df = df.sample(10, random_state=42).sort_values(by=["HomeID", "Date"])
+tiny_df.to_csv("../files/energy_usage_tiny.csv", index=False)

@@ -1,0 +1,11 @@
+HomeID,Date,Appliance,Room,Watts,HoursPerDay,SmartDevice
+108,2025-09-19,Ceiling Fan,Bedroom,87,11.1,True
+109,2025-07-08,Laptop,Office,68,5.0,True
+109,2025-09-20,Refrigerator,Kitchen,169,24.0,True
+115,2025-09-01,Heater,Garage,1953,4.6,False
+115,2025-09-18,Laptop,Office,63,3.5,False
+122,2025-08-23,Air Conditioner,Bedroom,1428,5.1,False
+131,2025-07-03,Heater,Garage,1806,3.5,False
+134,2025-09-20,Laptop,Office,63,5.0,True
+141,2025-07-06,Refrigerator,Kitchen,142,24.0,True
+145,2025-09-26,Air Conditioner,Bedroom,1481,4.1,False
