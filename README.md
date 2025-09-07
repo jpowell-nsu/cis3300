@@ -12,7 +12,7 @@ These projects aim to teach the fundamentals of Java programming and coding skil
 
 ### Dependencies
 
-Java JDK 24, Eclipse IDE, openCSV (https://sourceforge.net/projects/opencsv/), org.json (https://github.com/stleary/JSON-java?tab=readme-ov-file), more coming soon...
+Java JDK 24, Eclipse IDE, openCSV (https://sourceforge.net/projects/opencsv/), org.json (https://github.com/stleary/JSON-java?tab=readme-ov-file), Python, more coming soon...
 
 ### Installing
 
