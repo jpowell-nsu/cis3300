@@ -1,0 +1,4 @@
+type,amount,targetAccount,sourceAccount
+deposit,120.50,A1003,null
+withdraw,250.00,A1001,null
+transfer,300.75,A1002,A1004
